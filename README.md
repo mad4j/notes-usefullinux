@@ -25,7 +25,7 @@ What is my external IP address? or more detailed information:
 
 ``` $ curl ipinfo.io ```
 
-![sudo](gifs/ifconfigme.gif)
+![sudo](gifs/ipinfo.gif)
 
 ## References
 
