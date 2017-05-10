@@ -1,7 +1,8 @@
 Useful Linux
 ============
+Same useful terminal commands that may save your week-ends!!
 
-# :one: Yes, of course! I'm root.
+# :repeat: Yes, of course! I'm root.
 
 ```$ sudo !!```
 
@@ -10,7 +11,7 @@ Forget to sudo? Don't worry is not needed to re-type to whole command.
 ![sudo](gifs/sudo.gif)
 
 
-# :video_camera: Bash, the Director's cut!!
+# :movie_camera: Bash, the Director's cut!!
 
 ```$  ttystudio output.gif --log```
 
