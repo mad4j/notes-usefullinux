@@ -21,7 +21,9 @@ Use ```^Q``` to terminate recording session and generate animation.
 
 ``` $ curl ifconfig.me ```
 
-What is my external IP address?
+What is my external IP address? or more detailed information:
+
+``` $ curl ipinfo.io ```
 
 ![sudo](gifs/ifconfigme.gif)
 
