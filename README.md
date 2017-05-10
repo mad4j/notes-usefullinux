@@ -7,7 +7,8 @@ Useful Linux
 
 ### :two: Bash, the Director's cut!!
 
-```$ ttystudio```
+```$  ttystudio output.gif --log```
+Use ```^Q``` to terminate recording session and generate animation.
 
 ### :three: Please, tell me my address
 ``` $ curl ifconfig.me ```
