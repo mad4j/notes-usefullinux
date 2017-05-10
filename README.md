@@ -1,13 +1,14 @@
-# Useful Linux
+Useful Linux
+============
 
-## Yes, of course! I'm root.
+### :one: Yes, of course! I'm root.
 
 ```$ sudo !!```
 
-## Bash, the Director's cut!!
+### :two: Bash, the Director's cut!!
 
 ```$ ttystudio```
 
-### Please, tell me my address
+### :three: Please, tell me my address
 ``` $ curl ifconfig.me ```
 
