@@ -25,6 +25,6 @@ What is my external IP address?
 
 ![sudo](gifs/ifconfigme.gif)
 
-## Referecences
+## References
 
 * [51 Useful Lesser Known Commands for Linux Users](https://www.tecmint.com/51-useful-lesser-known-commands-for-linux-users/)
