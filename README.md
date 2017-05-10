@@ -4,3 +4,7 @@
 
 ```$ sudo!!```
 
+## Bash, the Director's cut!!
+
+```$ ttystudio```
+
