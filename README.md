@@ -5,7 +5,7 @@ Useful Linux
 
 ```$ sudo !!```
 
-### :two: Bash, the Director's cut!!
+### :video_camera: Bash, the Director's cut!!
 
 ```$  ttystudio output.gif --log```
 Use ```^Q``` to terminate recording session and generate animation.
