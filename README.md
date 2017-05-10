@@ -4,6 +4,8 @@ Useful Linux
 ### :one: Yes, of course! I'm root.
 
 ```$ sudo !!```
+![sudo](sudo.gif)
+
 
 ### :video_camera: Bash, the Director's cut!!
 
