@@ -1,8 +1,8 @@
 # Useful Linux
 
-## Yes! Of course, I'm root
+## Yes, of course! I'm root.
 
-```$ sudo!!```
+```$ sudo !!```
 
 ## Bash, the Director's cut!!
 
