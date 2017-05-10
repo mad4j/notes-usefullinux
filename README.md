@@ -1,6 +1,6 @@
 # Useful Linux
 
-## I'm root
+## Yes! Of course, I'm root
 
 ```$ sudo!!```
 
