@@ -48,7 +48,7 @@ Repeat a command coninuosly:
 ```$ watch -n 1 -d ifconfig eth0```
 
 
-![watch](watch.gif)
+![watch](gifs/watch.gif)
 
 
 # :two: External resources
