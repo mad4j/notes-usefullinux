@@ -19,6 +19,16 @@ Forget to sudo? Don't worry is not needed to re-type to whole command.
 
 Use ```^Q``` to terminate recording session and generate animation.
 
+## Some information
+
+```$ uname -a```
+
+```$ uptime```
+
+```$ hostname```
+
+```$ hostname -I```
+
 # :two: External resources
 
 ## :envelope: Please, tell me my address
