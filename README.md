@@ -19,15 +19,27 @@ Forget to sudo? Don't worry is not needed to re-type to whole command.
 
 Use ```^Q``` to terminate recording session and generate animation.
 
-## Some information
+## System information
+
+Get brief system description:
 
 ```$ uname -a```
 
+How long since last boot:
+
 ```$ uptime```
+
+System host name:
 
 ```$ hostname```
 
+Host IP address:
+
 ```$ hostname -I```
+
+
+![sysinfo](gifs/sysinfo.gif)
+
 
 # :two: External resources
 
