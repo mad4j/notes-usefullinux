@@ -41,6 +41,16 @@ Host IP address:
 ![sysinfo](gifs/sysinfo.gif)
 
 
+## Continously watch
+
+Repeat a command coninuosly:
+
+```$ watch -n 1 -d ifconfig eth0```
+
+
+![watch](watch.gif)
+
+
 # :two: External resources
 
 ## :envelope: Please, tell me my address
