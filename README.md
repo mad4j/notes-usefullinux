@@ -67,7 +67,7 @@ What is my external IP address? or more detailed information:
 
 # :three: Keyboard shorcuts
 
-## Performing historical researches
+## :mag: Performing historical researches
 
 Search in bash history in interactive mode by pressing ``` CTRL-R```.
 
