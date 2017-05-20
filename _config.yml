@@ -1,1 +1,9 @@
+title: Useful Linux
+the Linux that may save your weekends!
+google_analytics: 
+show_downloads: false
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
+  - jemoji
