@@ -4,13 +4,15 @@ Same useful terminal commands that may save your week-ends!!
 
 # :one: Toolbag
 
-## :repeat: Yes, of course! I'm root.
+## :repeat: Do not repeat yourself.
 
 ```$ sudo !!```
 
 Forget to sudo? Don't worry is not needed to re-type to whole command.
 
 ![sudo](gifs/sudo.gif)
+
+
 
 
 ## :movie_camera: Bash, the Director's cut!!
@@ -65,9 +67,14 @@ What is my external IP address? or more detailed information:
 
 # :three: Keyboard shorcuts
 
-TBD
+## Historical research
+
+``` CTRL-R``` will enter in search mode.
+Type part of your command and the most recent match will be suggested. Then press ```ENTER``` to execute the command or ```CTRL-R``` again to search the next match.
+Use ```CTRL-C``` to cancel the operation and return back to the shell.
 
 
 ## References
 
 * [51 Useful Lesser Known Commands for Linux Users](https://www.tecmint.com/51-useful-lesser-known-commands-for-linux-users/)
+* [Best tips and triks for bash](https://linuxacademy.com/blog/linux/tutorial-the-best-tips-tricks-for-bash-explained/)
