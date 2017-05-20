@@ -67,12 +67,14 @@ What is my external IP address? or more detailed information:
 
 # :three: Keyboard shorcuts
 
-## Historical research
+## Performing historical researches
 
-``` CTRL-R``` will enter in search mode.
+Search in bash history in interactive mode by pressing ``` CTRL-R```.
+
 Type part of your command and the most recent match will be suggested. Then press ```ENTER``` to execute the command or ```CTRL-R``` again to search the next match.
 Use ```CTRL-C``` to cancel the operation and return back to the shell.
 
+![sudo](gifs/ctrl-r.gif)
 
 ## References
 
