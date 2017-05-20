@@ -76,6 +76,12 @@ Use ```CTRL-C``` to cancel the operation and return back to the shell.
 
 ![sudo](gifs/ctrl-r.gif)
 
+## Reuse last parameter
+
+Use ```ESC-.``` to retrieve last parameter from previous commands. Press again to cycle among past commands.
+
+
+
 ## References
 
 * [51 Useful Lesser Known Commands for Linux Users](https://www.tecmint.com/51-useful-lesser-known-commands-for-linux-users/)
