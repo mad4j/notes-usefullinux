@@ -2,7 +2,6 @@ Useful Linux
 ============
 Same useful terminal commands that may save your week-ends!!
 
-# :one: Toolbag
 
 ## :repeat: Do not repeat yourself.
 
@@ -11,8 +10,6 @@ Same useful terminal commands that may save your week-ends!!
 Forget to sudo? Don't worry is not needed to re-type to whole command.
 
 ![sudo](gifs/sudo.gif)
-
-
 
 
 ## :movie_camera: Bash, the Director's cut!!
@@ -53,8 +50,6 @@ Repeat a command coninuosly:
 ![watch](gifs/watch.gif)
 
 
-# :two: External resources
-
 ## :envelope: Please, tell me my address
 
 ``` $ curl ifconfig.me ```
@@ -65,7 +60,6 @@ What is my external IP address? or more detailed information:
 
 ![sudo](gifs/ipinfo.gif)
 
-# :three: Keyboard shorcuts
 
 ## :mag: Performing historical researches
 
