@@ -40,6 +40,11 @@ Host IP address:
 ![sysinfo](gifs/sysinfo.gif)
 
 
+## Be social: your connections
+
+``` ip -a```
+
+
 ## Continously watch
 
 Repeat a command coninuosly:
